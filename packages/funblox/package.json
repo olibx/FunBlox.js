@@ -42,7 +42,7 @@
   },
   "dependencies": {
     "got-cjs": "^12.5.4",
-    "tough-cookie": "^4.1.2",
+    "tough-cookie": "^5.0.0",
     "tough-cookie-file-store": "^2.0.3"
   },
   "gitHead": "793132d99a3fd78483fd5899e58194d2e461242f"
